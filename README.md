@@ -16,4 +16,4 @@ Sou João Marcos Ressetti, um estudante de Engenharia de Software na UEPG, busca
 
 **Conecte-se Comigo**
 
-[![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-marcos-ressetti/)
+[![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-marcos-ressetti)
