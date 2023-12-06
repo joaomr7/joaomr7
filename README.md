@@ -8,11 +8,13 @@ Sou João Marcos Ressetti, um estudante de Engenharia de Software na UEPG, busca
 
 **Principais projetos**
 
-- **[Meu portifólio de Data Science](https://github.com/joaomr7/portfolio-data-science)**
+1. **[Previsão de Churn da Empresa Telco](https://github.com/joaomr7/previsao-de-churn-telco)**
   
-  **Descrição:** Este é meu projeto principal, onde concentro várias análises e projetos relacionados a data science. Inclui um projeto de análise de dados do Airbnb, outro sobre o panorama geral da Covid-19 e um projeto de detecção de fraude em cartão de crédito.
+    **Descrição**: Neste projeto, eu exploro um dataset de uma empresa fictícia, a Telco, e busco desenvolver um modelo capaz de prever o churn de clientes.
 
-*Em breve:* Ainda vou migrar meus projetos para repositórios independentes, proporcionando uma melhor organização e visibilidade.
+2. **[Meu portifólio de Data Science](https://github.com/joaomr7/portfolio-data-science)**
+  
+    **Descrição:** Este é meu projeto principal, onde concentro várias análises e projetos relacionados a data science. Inclui um projeto de análise de dados do Airbnb, outro sobre o panorama geral da Covid-19 e um projeto de detecção de fraude em cartão de crédito.
 
 **Conecte-se Comigo**
 
