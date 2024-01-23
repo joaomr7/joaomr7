@@ -8,7 +8,7 @@ Sou João Marcos Ressetti, um estudante de Engenharia de Software na UEPG, busca
 
 **Principais projetos**
 
-1. **[Previsão de Texto Gerado Por IA](https://github.com/joaomr7/ai_text_generated_detection)**
+1. **[Previsão de Texto Gerado Por IA](https://github.com/joaomr7/ai_text_detector)**
    
     **Descrição:** Projeto completo, desde entendimento de negócios até deploy. O objetivo deste projeto é fornecer um mecanismo capaz de detectar textos gerados por Inteligêcias Artificias.
 
