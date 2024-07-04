@@ -12,6 +12,10 @@ Sou João Marcos Ressetti, um estudante de Engenharia de Software na UEPG, busca
    
     **Descrição:** Projeto completo, desde entendimento de negócios até deploy. O objetivo deste projeto é fornecer um mecanismo capaz de detectar textos gerados por Inteligêcias Artificias.
 
+2. **[Análise E-Commerce Brasileiro](https://github.com/joaomr7/AnaliseComercioBR)**
+
+   **Descrição:** Projeto onde utilizo processamento de linguagem natural para detectar reclamações em reviews de produtos vendidos no e-commerce brasileiro.
+
 3. **[Previsão de Churn da Empresa Telco](https://github.com/joaomr7/previsao-de-churn-telco)**
   
     **Descrição:** Neste projeto, eu exploro um dataset de uma empresa fictícia, a Telco, e busco desenvolver um modelo capaz de prever o churn de clientes.
